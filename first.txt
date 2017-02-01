@@ -1,1 +1,3 @@
 Dette er en test for å se hva som skjer :) Dette er vår første commit
+commit is taking a snapshot in time
+Yo co mo ho so
